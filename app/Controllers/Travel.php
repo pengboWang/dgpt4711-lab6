@@ -15,7 +15,7 @@
  return $parser->setData(['records' => $records])
  // and have it render the template with those
  ->render('placeslist');
- }
+ } 
  
  public function showme($id)
  {
